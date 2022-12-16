@@ -1,0 +1,10 @@
+Para apontar um FRAME deverá atribuir TARGET
+
+O atributo TARGET possui quatro valores:
+
+---> blank
+---> _self
+---> _parent
+---> _top
+
+<A HREF="URL" TARGET="nome_frame">Clique aqui</A>

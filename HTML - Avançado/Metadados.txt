@@ -1,0 +1,5 @@
+METADADOS-> São informações sobre seus dados
+
+Tag --> <META>
+
+Deverá inserir entre as tags <HEAD> e </HEAD>

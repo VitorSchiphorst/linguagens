@@ -1,0 +1,8 @@
+Métodos de Formulário
+
+São:
+
+--> POST (O navegador enviará diretamento o fluxo de dados para o Script CGI no servidor Web)
+--> GET (O fluxo de dados será anexado à URL especificada no atributo ACTION e eniado ao servidor como uma única URL)
+
+<FORM ACTION="url" METHOD="get" ou "post">

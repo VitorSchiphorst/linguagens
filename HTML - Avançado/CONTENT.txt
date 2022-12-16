@@ -1,0 +1,23 @@
+CONTENT-> Aceita somente texto e especifica o conteúdo da informação META
+
+Valores do atributo CONTENT:
+
+--> NAME == Fornence um nome para a informação no atributo
+    Sintaxe = <META NAME="alor relativo à name">
+        Valores de NAME:
+            => AUTHOR
+            => DESCRIPTION
+            => KEYWORDS
+            => GENERATOR
+            => ROBOTS
+            => COPYRIGHT
+
+--> HTTP-EQUIV == Fornece um cabeçalho HTTP para a informação no atributo
+    Sintaxe = <META HTTP-EQUIV="valor">
+        Valores de HTTP-EQUIV:
+            => CONTENT TYPE
+            => EXPIRES
+            => REFRESH
+            => SET-COOKIES
+
+Ex:. <META HTTP-EQUIV="REFRESH" CONTENT="segundos" URL="novo_URL">

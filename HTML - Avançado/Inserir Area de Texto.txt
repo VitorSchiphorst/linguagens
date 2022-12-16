@@ -1,0 +1,3 @@
+Inserindo Área de texto
+
+<TEXTAREA NAME="nome" ROWS="número" COLS="número" NAME="váriavel">Descrição</TEXTAREA>

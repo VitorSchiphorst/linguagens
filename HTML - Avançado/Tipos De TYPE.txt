@@ -1,0 +1,14 @@
+Tipos de TYPE
+
+São:
+
+--> imagem (Botão de Imagem)
+--> button (Botão)
+--> file (Seleção de Arquivo)
+--> reset (Botão de Reset)
+--> submit (Botão de Enviar)
+--> password (Campo de texto sem exibir o que for digitado)
+--> radio (Botão de única escolha)
+--> text (Campo de texto)
+--> checkbox (Caixa de Seleção)
+--> hidden (Controle Oculto)

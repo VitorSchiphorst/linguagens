@@ -1,0 +1,9 @@
+Tipos de FRAME
+
+São:
+
+--> SRC (Especifica a URL que você deseja carregar em um frame)
+--> MARGINWIDHT (Especifica as margens direita e esquerda[largura] em Pixels)
+--> MARGINHEIGHT (Especifica as margens superior e inferior em Pixels)
+--> SCROLLING (Adiciona uma barra de rolagem a um frame)
+--> NORESIZE (Impede que o usuário redimensione um frame)

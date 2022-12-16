@@ -1,0 +1,13 @@
+Tipos de INPUT
+
+São:
+
+--> type (Caso não especificado o padrão é "text")
+--> value (Valor de controle)
+--> name (Nomeia cada campo do Formulário)
+--> size (Largura)
+--> checked (Quando for "radio" ou "checkbox" significa que está selecionado)
+--> maxlenght (Maximo de caracteres)
+--> src (Especifica a localização da imagem quando for "image")
+
+<INPUT TYPE=text NAME="Nome" SIZE="20" MAXLENGHT"50">
